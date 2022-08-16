@@ -1,0 +1,10 @@
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Repository\obj\Debug\netcoreapp3.1\Omnion.Repository.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Repository\obj\Debug\netcoreapp3.1\Omnion.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Repository\obj\Debug\netcoreapp3.1\Omnion.Repository.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Repository\obj\Debug\netcoreapp3.1\Omnion.Repository.AssemblyInfo.cs
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Repository\obj\Debug\netcoreapp3.1\Omnion.Repository.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Repository\bin\Debug\netcoreapp3.1\Omnion.Repository.deps.json
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Repository\bin\Debug\netcoreapp3.1\Omnion.Repository.dll
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Repository\bin\Debug\netcoreapp3.1\Omnion.Repository.pdb
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Repository\obj\Debug\netcoreapp3.1\Omnion.Repository.dll
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Repository\obj\Debug\netcoreapp3.1\Omnion.Repository.pdb

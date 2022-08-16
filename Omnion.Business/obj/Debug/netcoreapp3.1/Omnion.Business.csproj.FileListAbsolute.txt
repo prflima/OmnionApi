@@ -1,0 +1,13 @@
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\obj\Debug\netcoreapp3.1\Omnion.Business.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\obj\Debug\netcoreapp3.1\Omnion.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\obj\Debug\netcoreapp3.1\Omnion.Business.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\obj\Debug\netcoreapp3.1\Omnion.Business.AssemblyInfo.cs
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\obj\Debug\netcoreapp3.1\Omnion.Business.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\bin\Debug\netcoreapp3.1\Omnion.Business.deps.json
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\bin\Debug\netcoreapp3.1\Omnion.Business.dll
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\bin\Debug\netcoreapp3.1\Omnion.Business.pdb
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\bin\Debug\netcoreapp3.1\Omnion.Repository.dll
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\bin\Debug\netcoreapp3.1\Omnion.Repository.pdb
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\obj\Debug\netcoreapp3.1\Omnion.Business.csproj.CopyComplete
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\obj\Debug\netcoreapp3.1\Omnion.Business.dll
+C:\Users\paulo\Desktop\TesteOmnio\OmnionPointsUser\Omnion.Business\obj\Debug\netcoreapp3.1\Omnion.Business.pdb
